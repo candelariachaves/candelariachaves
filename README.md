@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+> Email: chavesmartinezcandelaria@gmail.com
 <!--
 **candelariachaves/candelariachaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
