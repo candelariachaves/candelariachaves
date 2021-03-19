@@ -1,6 +1,11 @@
-### Hi there 👋
+## Hi there, I'm Candelaria Chaves 👋
+
+Baby Front-End Web Developer
+
+### Contact
 
 > Email: chavesmartinezcandelaria@gmail.com
+
 <!--
 **candelariachaves/candelariachaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
